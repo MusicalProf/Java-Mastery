@@ -1,4 +1,4 @@
-package Exercises.FootballTournament.footballtournament;
+package Exercises.ApplicationStructure.footballtournament;
 
 public class Team {
     public String name;

@@ -1,4 +1,4 @@
-package Exercises.BasicBankAccount.bank;
+package Exercises.ApplicationStructure.BasicBankAccount.bank;
 
 public class BankAccount {
     private int accountNumber;

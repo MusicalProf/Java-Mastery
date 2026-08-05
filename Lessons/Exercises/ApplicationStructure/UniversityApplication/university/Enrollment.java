@@ -1,4 +1,4 @@
-package Exercises.UniversityApplication.university;
+package Exercises.ApplicationStructure.UniversityApplication.university;
 
 public class Enrollment {
     public Student student;
