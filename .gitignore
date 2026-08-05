@@ -1,0 +1,11 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+
+# Generated Build Output
+target/
+out/
+
+# Generated personal outputs
+.DS_Store

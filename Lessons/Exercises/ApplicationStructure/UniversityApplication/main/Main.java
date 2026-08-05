@@ -1,8 +1,8 @@
-package Exercises.UniversityApplication.main;
+package Exercises.ApplicationStructure.UniversityApplication.main;
 
-import Exercises.UniversityApplication.university.Course;
-import Exercises.UniversityApplication.university.Student;
-import Exercises.UniversityApplication.university.Enrollment;
+import Exercises.ApplicationStructure.UniversityApplication.university.Course;
+import Exercises.ApplicationStructure.UniversityApplication.university.Student;
+import Exercises.ApplicationStructure.UniversityApplication.university.Enrollment;
 public class Main {
     public static void main(String[] args){
         Student student = new Student();

@@ -1,8 +1,8 @@
-package Exercises.ProductInventory.main;
+package Exercises.ApplicationStructure.ProductInventory.main;
 
-import Exercises.ProductInventory.inventory.Product;
-import Exercises.ProductInventory.inventory.Inventory;
-import Exercises.ProductInventory.inventory.Warehouse;
+import Exercises.ApplicationStructure.ProductInventory.inventory.Product;
+import Exercises.ApplicationStructure.ProductInventory.inventory.Inventory;
+import Exercises.ApplicationStructure.ProductInventory.inventory.Warehouse;
 public class Main {
     public static void main(String[] args){
         Product product = new Product();

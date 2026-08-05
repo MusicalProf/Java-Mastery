@@ -1,4 +1,4 @@
-package Exercises.ProductInventory.inventory;
+package Exercises.ApplicationStructure.ProductInventory.inventory;
 
 public class Warehouse {
     private int warehouseId;
