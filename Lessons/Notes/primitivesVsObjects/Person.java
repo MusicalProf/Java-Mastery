@@ -1,4 +1,4 @@
-package primitivesVsObjects;
+package Notes.primitivesVsObjects;
 
 public class Person {
     String name; // Property of person class.

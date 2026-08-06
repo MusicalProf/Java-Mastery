@@ -1,4 +1,4 @@
-package primitivesVsObjects;
+package Notes.primitivesVsObjects;
 
 public class Pass {
     // Java is pass by value. Which means a copy of the value gets created.

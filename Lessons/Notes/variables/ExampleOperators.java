@@ -1,4 +1,4 @@
-package variables;
+package Notes.variables;
 
 public class ExampleOperators {
     public static void main(String[] args){
@@ -9,7 +9,7 @@ public class ExampleOperators {
         System.out.println("Sum: " + z); // Addition
         System.out.println("Difference: " + (x - y)); // Subtraction
         System.out.println("Product: " + (x * y)); // Multiplication
-        System.out.println("Quotient: " + (x / y)); // Division - both variables should be doubles for clean division
+        System.out.println("Quotient: " + (x / y)); // Division - both Notes.variables should be doubles for clean division
 
         int nr1 = 10;
         int nr2 = 4;

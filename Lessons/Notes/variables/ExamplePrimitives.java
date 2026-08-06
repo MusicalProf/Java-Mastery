@@ -1,4 +1,4 @@
-package variables;
+package Notes.variables;
 
 public class ExamplePrimitives {
     public static void main(String[] args){

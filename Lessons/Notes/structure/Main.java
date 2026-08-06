@@ -1,4 +1,4 @@
-package structure;// Packages are a structure to group our classes.
+package Notes.structure;// Packages are a Notes.structure to group our classes.
 
 import java.time.LocalDate;
 

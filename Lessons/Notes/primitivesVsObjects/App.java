@@ -1,4 +1,4 @@
-package primitivesVsObjects;
+package Notes.primitivesVsObjects;
 
 public class App {
     public static void main(String[] args) {

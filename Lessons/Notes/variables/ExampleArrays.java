@@ -1,4 +1,4 @@
-package variables;
+package Notes.variables;
 
 public class ExampleArrays {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package structure;
+package Notes.structure;
 
 public class Account {
 //    Data - Properties of the class.
