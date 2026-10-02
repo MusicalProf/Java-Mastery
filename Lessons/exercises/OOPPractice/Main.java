@@ -1,4 +1,4 @@
-package exercises.oopPractice;
+package exercises.OOPPractice;
 
 public class Main {
     public static void main(String[] args) {

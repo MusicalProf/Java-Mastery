@@ -1,4 +1,4 @@
-package exercises.oopPractice;
+package exercises.OOPPractice;
 
 public class Bird extends Animal{
     public Bird() {
