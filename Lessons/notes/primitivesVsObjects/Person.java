@@ -5,5 +5,5 @@ public class Person {
 
     public void greet(){ // Method of person class.
         System.out.println("Hi, I'm " + name);
-    }
+    } // Method of the person class.
 }
